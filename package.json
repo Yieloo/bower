@@ -1,0 +1,12 @@
+{
+  "name": "qtip2-bower",
+  "version": "2.2.1",
+  "description": "qTip2 Bower Package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yieloo/qtip2-bower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Yieloo/qtip2-bower#readme"
+}
